@@ -1,4 +1,4 @@
-name = "vavoo-iptv-proxy"
+name = "navooswork"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 
